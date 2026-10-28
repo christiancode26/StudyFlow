@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "Aplicação simples e intuitiva para estudantes iniciantes organizarem seus objetivos de estudo, prazos e rotinas diárias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
